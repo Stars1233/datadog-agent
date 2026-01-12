@@ -14151,6 +14151,13 @@
 			"distrib": "amzn",
 			"version": "2018",
 			"arch": "x86_64",
+			"uname_release": "4.14.355-194.598.amzn1.x86_64",
+			"cindex": 10
+		},
+		{
+			"distrib": "amzn",
+			"version": "2018",
+			"arch": "x86_64",
 			"uname_release": "4.14.355-195.572.amzn1.x86_64",
 			"cindex": 11
 		},
